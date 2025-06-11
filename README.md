@@ -1,7 +1,16 @@
 
-
 # Hello World!, I'm Tobi, a Nigerian Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+👋 Hey there! I'm a software developer who spends more time debugging than actually writing code (but hey, that's the job, right?). I specialize in turning coffee into code and occasionally into bugs.  
+<br>
+I love building things that make life easier, or at least slightly less annoying. Whether it's crafting clean code, tinkering with new frameworks, or battling the infamous "works on my machine" bug, I'm always up for a challenge.
+<br>
+When I'm not coding, you can find me pretending to understand documentation, Googling error messages like a pro, or taking way too long to name variables (seriously, why is it so hard?).  
+<br>
+Feel free to check out my repos—some are polished projects, others are experiments that may or may not have gone horribly wrong. Either way, let's connect and build something awesome! 🚀
+<br>
+🛜 currently working on my own [webpage](https://japhet-portfolio-khaki.vercel.app/)<br>
+<br>
+P.S. If you find any typos in my code, they’re just Easter eggs. You're welcome. 😎
 
 
 # 💻 Tech Stack:
