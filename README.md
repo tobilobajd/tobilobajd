@@ -1,5 +1,5 @@
 
-# Hello World!, I'm Tobi, a Nigerian Web Developer 👋🏼:
+# Hello World!, I'm Tobi, a Nigerian Software Engineer 👋🏼:
 👋 Hey there! I'm a software developer who spends more time debugging than actually writing code (but hey, that's the job, right?). I specialize in turning coffee into code and occasionally into bugs.  
 <br>
 I love building things that make life easier, or at least slightly less annoying. Whether it's crafting clean code, tinkering with new frameworks, or battling the infamous "works on my machine" bug, I'm always up for a challenge.
@@ -8,7 +8,7 @@ When I'm not coding, you can find me pretending to understand documentation, Goo
 <br>
 Feel free to check out my repos—some are polished projects, others are experiments that may or may not have gone horribly wrong. Either way, let's connect and build something awesome! 🚀
 <br>
-🛜 currently working on my own [webpage](https://my-devfolio-git-main-japhets-projects-16fdaac2.vercel.app)<br>
+🛜 currently working on my own [webpage](https://my-devfolio-brown.vercel.app)<br>
 <br>
 P.S. If you find any typos in my code, they’re just Easter eggs. You're welcome. 😎
 
