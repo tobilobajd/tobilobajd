@@ -8,7 +8,7 @@ When I'm not coding, you can find me pretending to understand documentation, Goo
 <br>
 Feel free to check out my repos—some are polished projects, others are experiments that may or may not have gone horribly wrong. Either way, let's connect and build something awesome! 🚀
 <br>
-🛜 currently working on my own [webpage](https://japhet-portfolio-khaki.vercel.app/)<br>
+🛜 currently working on my own [webpage](https://my-devfolio-git-main-japhets-projects-16fdaac2.vercel.app)<br>
 <br>
 P.S. If you find any typos in my code, they’re just Easter eggs. You're welcome. 😎
 
