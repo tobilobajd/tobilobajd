@@ -1,6 +1,6 @@
 
 # Hello World!, I'm Tobi, a Nigerian Software Engineer 👋🏼:
-👋 Hey there! I'm a software developer who spends more time debugging than actually writing code (but hey, that's the job, right?). I specialize in turning coffee into code and occasionally into bugs.  
+Hey there! I'm a software Engineer who spends more time debugging than actually writing code (but hey, that's the job, right?). I specialize in solving problems and turning coffee into code and occasionally into bugs.  
 <br>
 I love building things that make life easier, or at least slightly less annoying. Whether it's crafting clean code, tinkering with new frameworks, or battling the infamous "works on my machine" bug, I'm always up for a challenge.
 <br>
